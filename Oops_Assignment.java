@@ -1,9 +1,5 @@
 /* Create a class Area that prints the area of 
 circle, square, rectangle, triangle by passing value of sides*/
-import java.io.*;
-
-import javax.sound.sampled.SourceDataLine;
-
 class Area {
 
 	// Overloaded CalcArea() function to
